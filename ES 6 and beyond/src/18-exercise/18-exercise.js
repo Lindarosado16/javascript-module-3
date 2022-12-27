@@ -31,3 +31,5 @@ function displayContents(data) {
 }
 
 export default exercise18;
+
+

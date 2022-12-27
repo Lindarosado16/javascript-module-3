@@ -9,4 +9,4 @@
  */
 
 
-export * as utils from "./16-exercise-fns";
+export * as utils from "./16-exercise-fns.js";

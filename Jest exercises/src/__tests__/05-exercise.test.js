@@ -11,11 +11,12 @@ import {
  */
 describe("05-exercises", () => {
   test("addItemToList adds a new item to the initial array immutably", () => {
-    expect.assertions(1);
+   
+
+   expect.assertions(1);
 
     const prevList = [1, 2, 3, 4];
     const newItem = 5;
-
     /**
      * Test that the addItemToList function adds the `newItem` variable to the
      * `prevList` array and returns an array that contains the previous elements

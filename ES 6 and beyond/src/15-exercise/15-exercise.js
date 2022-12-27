@@ -15,6 +15,7 @@
  * export default test;
  */
 function divide (a,b){
+    const func = a/b;
     return a/b;
 }
 export default divide;
